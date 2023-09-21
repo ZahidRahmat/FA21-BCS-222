@@ -1,0 +1,38 @@
+/* .container{
+    width: 800px;
+    height: 600px;
+    border: solid blue;
+    display: flex;
+
+}
+.fc{
+    width: 100px;
+    height: 100px;
+    border: solid red;
+    justify-content: center;
+
+} */
+#container1{
+    width: 800px;
+    height: 600px;
+    border: solid blue;
+    display: flex;
+    align-items: center;
+
+
+}
+.firstclass{
+    width: 200px;
+    height: 200px;
+    border: solid red;
+    margin-left: 150px;
+    text-align: center;
+
+
+}
+.secondclass{
+    width: 300px;
+    height: 200px;
+    border: solid red;
+    text-align: center;
+}
